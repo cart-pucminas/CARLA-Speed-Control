@@ -57,7 +57,7 @@ pip install -r requirements.txt
    Após a configuração, execute o script de controle de velocidade, integrando a detecção de placas de trânsito com o módulo de piloto automático do CARLA:
 
 ```bash
-python run_simulator.py
+python src/autopilot/main.py
 ```
 
 6. **Validação dos Resultados:**

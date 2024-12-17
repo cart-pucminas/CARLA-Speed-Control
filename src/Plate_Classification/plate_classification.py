@@ -10,7 +10,7 @@ def train(self):
 
     # Train the model
     train_results = model.train(
-        data="/home/tom/projects/tcc/AdversarialAutoDrive/src/Plate_Classification/dataset.yml",  # path to dataset YAML
+        data="./Plate_Classification/dataset.yml",  # path to dataset YAML
         epochs=5,  # number of training epochs
         imgsz=640,  # training image size
     )
