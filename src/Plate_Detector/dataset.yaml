@@ -1,0 +1,8 @@
+
+
+train: /home/tom/projects/tcc/AdversarialAutoDrive/src/Plate_Detector/dataset/train/images
+val: /home/tom/projects/tcc/AdversarialAutoDrive/src/Plate_Detector/dataset/val/images
+test: /home/tom/projects/tcc/AdversarialAutoDrive/src/Plate_Detector/dataset/test/images
+
+nc: 4  # Número de classes (1 para placas de velocidade)
+names: ['prohibitory', 'danger', 'mandatory', 'other']  # Nome da classe

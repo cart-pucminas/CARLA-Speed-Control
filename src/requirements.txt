@@ -1,0 +1,14 @@
+opencv-python
+numpy
+opencv-contrib-python
+scikit-learn
+scikit-image
+imutils
+matplotlib
+tensorflow
+yolov5
+torch
+torchvision
+yolov5
+pandas
+ultralytics

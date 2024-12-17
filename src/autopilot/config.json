@@ -1,0 +1,17 @@
+{
+    "host": "127.0.0.1",
+    "port": 2000,
+    "width": 1280,
+    "height": 720,
+    "sync": false,
+    "filter": "vehicle.*",
+    "generation": "2",
+    "loop": false,
+    "agent": "Behavior",
+    "behavior": "normal",
+    "seed": null,
+    "debug": false,
+    "detector_model_path": "/home/fernando/project/CARLA Simulator/src/Plate_Detector/model/best.pt",
+    "classifier_model_path": "/home/fernando/project/CARLA Simulator/src/Plate_Classification/model/best.pt"
+  }
+  

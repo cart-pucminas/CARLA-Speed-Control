@@ -1,0 +1,16 @@
+train: ./dataset/train/
+val: ./dataset/val/
+test: ./dataset/test/
+
+
+nc: 8  # Número de classes (1 para placas de velocidade)
+names: [
+  'back',
+  'speed_30',
+  'speed_60',
+  'speed_90',
+  'speed_limit_30',
+  'speed_limit_40',
+  'speed_limit_60',
+  'stop'
+]

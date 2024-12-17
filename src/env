@@ -1,0 +1,1 @@
+export PYTHONPATH=$PATHONPATH:/home/tom/projects/tcc/AdversarialAutoDrive/carla-9.15/PythonAPI/carla
