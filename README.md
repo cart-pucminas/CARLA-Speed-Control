@@ -6,6 +6,9 @@ Este projeto propõe uma solução para o controle de velocidade de um veículo 
 
 O principal objetivo deste projeto é implementar um sistema de controle de velocidade que responda de forma rápida e assertiva às sinalizações de trânsito, garantindo uma direção mais segura. A solução foi integrada ao algoritmo de piloto automático do CARLA e validada em um mapa da cidade 01 do simulador, com diferentes rotas e placas de sinalização ao longo do trajeto.
 
+<img src="https://github.com/user-attachments/assets/3a931927-cb6a-40ce-8303-f15fa08e6eeb" alt="image" width="300">
+
+
 ## Funcionalidades
 
 - **Detecção e Classificação de Placas de Trânsito:** Utilização do modelo YOLO para identificar e classificar as placas de trânsito.
